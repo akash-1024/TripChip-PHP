@@ -9,4 +9,4 @@ A pocket friendly journey companion. Created as a part of my Bachelor's Degree p
 
 ## How to Use - 
 1. Copy all files to "html" folder of the server (LAMP/XAMP)
-2. Import the railways database into the MySQL
+2. Import _railway_database_ and _tripchip_database_ into the MySQL
