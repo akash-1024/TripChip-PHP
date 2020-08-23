@@ -1,0 +1,18 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   },
+   "description": "Notification Push Sample. http://hayageek.com",
+   "icons": {
+      "128": "icon.jpg",
+      "16": "icon.jpg",
+      "24": "icon.jpg"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCGrQb6q2lUuiXaX/8tYJYznZgkU2guqHaeJ803nW5SUadTodDhdTKxMGguz/ZS6bWsPKZZg0Vc6xTnkoTFOjjWPlHFpETQLXonu7mKOVKoaapJQb3pEwHSCs41QZTXu2FfPog5KOsf6eMBwLwNsJ3skW7iqqPtN7owhAUzQCuBSwIDAQAB",
+   "manifest_version": 2,
+   "name": "Push Message to Chrome Sample",
+   "permissions": [ "notifications", "pushMessaging" ],
+   "version": "2.0"
+}

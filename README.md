@@ -1,3 +1,3 @@
-# TripChip-PHP
+# tripchip
 
-Coded during the IndiaHacks-2016, an online hackathon organized by HackerEarth.
+A pocket friendly journey companion.
