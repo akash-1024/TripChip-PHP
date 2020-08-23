@@ -10,3 +10,6 @@ A pocket friendly journey companion. Created as a part of my Bachelor's Degree p
 ## How to Use - 
 1. Copy all files to "html" folder of the server (LAMP/XAMP)
 2. Import _railway_database.sql_ and _tripchip_database.sql_ (inside _database_ directory) into the MySQL [database name - railway]
+
+### Notes - 
+1. API Keys (last used in 2017) are probably expired (GoIbibo, Book My Show, Zomato).
